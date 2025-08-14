@@ -1,4 +1,3 @@
-import React from 'react';
 import { IoChevronBack, IoLockClosed, IoCheckmarkCircle, IoCloseCircle } from 'react-icons/io5';
 
 export default function ThreeDSecureApprovalScreen() {

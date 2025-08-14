@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { IoChevronBack, IoCopyOutline, IoInformationCircleOutline } from 'react-icons/io5';
 
 export default function DepositAddressScreen() {

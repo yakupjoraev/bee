@@ -1,4 +1,3 @@
-import React from 'react';
 import { IoChevronBack, IoCardOutline, IoCloseCircleOutline, IoTimeOutline } from 'react-icons/io5';
 
 export default function TransactionsScreen() {

@@ -1,4 +1,3 @@
-import React from 'react';
 import { IoPersonOutline, IoLockClosedOutline, IoEyeOutline } from 'react-icons/io5';
 
 export default function AuthScreen() {

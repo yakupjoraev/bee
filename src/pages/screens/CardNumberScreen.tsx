@@ -1,4 +1,4 @@
-import React from 'react';
+  
 import { IoChevronBack, IoCopyOutline } from 'react-icons/io5';
 
 export default function CardNumberScreen() {

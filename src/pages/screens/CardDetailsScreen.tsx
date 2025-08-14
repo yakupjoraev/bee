@@ -1,5 +1,4 @@
-import React from 'react';
-import { IoChevronBack, IoEyeOutline, IoEyeOffOutline, IoCopyOutline, IoCardOutline } from 'react-icons/io5';
+import { IoChevronBack, IoCopyOutline, IoCardOutline } from 'react-icons/io5';
 
 export default function CardDetailsScreen() {
   return (

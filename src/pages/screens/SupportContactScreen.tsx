@@ -1,4 +1,3 @@
-import React from 'react';
 import { IoChevronBack, IoChatbubblesOutline, IoMailOutline } from 'react-icons/io5';
 
 export default function SupportContactScreen() {
